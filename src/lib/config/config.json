@@ -1,0 +1,24 @@
+{
+    "key": "137",
+    "chainId": 137,
+    "name": "Polygon Mainnet",
+    "shortName": "Polygon",
+    "logToConsole": true,    
+    "orbCount": 1,
+    "orbId": 111,
+    "workerAccountCount": 1,
+    "transactionGasPriceInGwei": "400.0",
+    "orbPrice": "32.0",
+    "MPOT": "5.0",
+    "upgradeMinRarity": 0,
+    "upgradeMaxRarity": 1,
+    "rpcs":[
+      "https://rpc-mainnet.maticvigil.com/"
+    ],
+    "explorer": "https://polygonscan.com",
+    "addresses":{      
+      "tcpItem": "0xddc9c4F3C97a1Dab29719d779CB68962E07691c7",
+      "tcpProphet": "0x3687dA0bf6486D367f26E4B2cF071C926df65C99"
+    }
+}
+

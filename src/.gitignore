@@ -1,0 +1,5 @@
+.secret
+node_modules
+log
+mongodb.secret
+sqlserver.secret
